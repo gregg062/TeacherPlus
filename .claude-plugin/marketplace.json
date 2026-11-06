@@ -1,0 +1,16 @@
+{
+  "name": "teacherplus",
+  "owner": {
+    "name": "TeacherPlus"
+  },
+  "metadata": {
+    "description": "TeacherPlus: an everyday assistant plugin for classroom teachers."
+  },
+  "plugins": [
+    {
+      "name": "teacherplus",
+      "source": "./",
+      "description": "Everyday teacher assistant: sub plans, report comments, parent emails, lesson plans and at-risk screening."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# Never commit real student data
+data/
+*.real.csv

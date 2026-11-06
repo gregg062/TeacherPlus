@@ -1,0 +1,8 @@
+{
+  "name": "teacherplus",
+  "version": "0.1.0",
+  "description": "Everyday teacher assistant: substitute plans, report card comments, parent emails, lesson plans, and transparent at-risk student screening from your own gradebook and attendance data.",
+  "author": { "name": "TeacherPlus" },
+  "keywords": ["education", "teachers", "sub plans", "report cards", "at-risk", "attendance", "gradebook"],
+  "license": "MIT"
+}

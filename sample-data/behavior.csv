@@ -1,0 +1,9 @@
+student_id,class_id,date,type,description
+S006,SCI7-P1,2026-10-06,concern,"Off task, left seat repeatedly during lab"
+S006,SCI7-P1,2026-10-15,concern,Argument with lab partner
+S006,SCI7-P1,2026-10-22,concern,Refused to start Osmosis Lab write-up
+S006,SCI7-P1,2026-10-29,positive,Great questions during body systems discussion
+S009,SCI7-P3,2026-10-21,concern,"Head down, not participating"
+S003,SCI7-P1,2026-10-27,concern,Seemed withdrawn; said he's tired
+S010,SCI7-P3,2026-10-26,positive,Stayed after class for help; big improvement
+S008,SCI7-P3,2026-10-09,positive,Helped a classmate with microscope setup

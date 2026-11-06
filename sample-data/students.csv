@@ -1,0 +1,15 @@
+student_id,first_name,last_name,grade_level,class_ids,supports,accommodations,notes,guardian_name,guardian_email,preferred_language
+S001,Maya,Alvarez,7,SCI7-P1;ADV,,,Table captain for labs,Rosa Alvarez,r.alvarez@example.com,English
+S002,Jordan,Brooks,7,SCI7-P1;ADV,IEP,Extended time (1.5x); copy of notes; check for understanding privately,Prefers seat near front,Dana Brooks,dbrooks@example.com,English
+S003,Liam,Chen,7,SCI7-P1;ADV,,,,Wei Chen,wchen@example.com,English
+S004,Ava,Dubois,7,SCI7-P1;ADV,,,,Claire Dubois,cdubois@example.com,French
+S005,Noah,Estrada,7,SCI7-P1;ADV,ELL,Bilingual glossary; sentence frames; pair with Sofia,Newcomer this year,Luis Estrada,lestrada@example.com,Spanish
+S006,Zoe,Fischer,7,SCI7-P1;ADV,504,Movement breaks; fidget allowed,Gets nurse visit for asthma inhaler if needed,Erin Fischer,efischer@example.com,English
+S007,Ethan,Green,7,SCI7-P1;ADV,,,,Mark Green,mgreen@example.com,English
+S008,Sofia,Herrera,7,SCI7-P3;ADV,,,Helpful peer buddy,Ana Herrera,aherrera@example.com,Spanish
+S009,Caleb,Ito,7,SCI7-P3;ADV,,,,Ken Ito,kito@example.com,English
+S010,Priya,Joshi,7,SCI7-P3;ADV,,,,Anil Joshi,ajoshi@example.com,English
+S011,Mason,King,7,SCI7-P3;ADV,IEP,Read tests aloud; reduced problem sets,Goes to resource room after P3 on Tue/Thu,Tara King,tking@example.com,English
+S012,Harper,Lopez,7,SCI7-P3;ADV,,,,Gabe Lopez,glopez@example.com,English
+S013,Elijah,Moore,7,SCI7-P3;ADV,,,Do not release to anyone other than listed guardian,Kim Moore,kmoore@example.com,English
+S014,Chloe,Nguyen,7,SCI7-P3;ADV,,,,Bao Nguyen,bnguyen@example.com,Vietnamese

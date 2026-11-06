@@ -10,7 +10,8 @@
     {
       "name": "teacherplus",
       "source": "./",
-      "description": "Everyday teacher assistant: sub plans, report comments, parent emails, lesson plans and at-risk screening."
+      "description": "Research-based teacher assistant: plan, deliver and assess lessons, differentiate, sub plans (including long-term), coaching and department leadership, verified math answer keys, real standards text and at-risk screening.",
+      "version": "0.2.0"
     }
   ]
 }

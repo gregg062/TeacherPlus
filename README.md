@@ -66,20 +66,26 @@ The screen is meant to start a conversation. It doesn't diagnose anything, and t
 
 ## Install
 
-Requirements: [uv](https://docs.astral.sh/uv/) (it installs the Python MCP SDK automatically on first run).
+**Requirements:** Claude Code (terminal or desktop app) on a paid Claude plan, plus Python 3 (for the answer checker and standards lookup). The class-data connector also needs [uv](https://docs.astral.sh/uv/).
 
-**Claude Code:**
+While the GitHub repository is private, your computer needs GitHub access first. Install the GitHub CLI and run `gh auth login`, then `gh auth setup-git`.
+
+**Claude Code (terminal):** start `claude`, then:
 
 ```
-/plugin marketplace add gregg062/teacherplus
+/plugin marketplace add gregg062/TeacherPlus
 /plugin install teacherplus@teacherplus
 ```
 
-**Claude desktop / Cowork:** add the plugin from this repository through the plugin settings, or zip the repository and upload it as a custom plugin.
+The desktop app's Code tab shares these settings, so installing once in the terminal makes it available there too.
 
-No `uv`? If Python has the MCP SDK installed (`pip install mcp`), change `.mcp.json` to use `"command": "python3", "args": ["${CLAUDE_PLUGIN_ROOT}/server/teacherplus_server.py"]`.
+**Claude desktop / Cowork:** Customize → Plugins → Add, then either add the marketplace `gregg062/TeacherPlus` (connect GitHub and give the Claude GitHub App access to the repository) or upload a .zip of this folder. The skills work there; the class-data connector depends on `uv` being available and hasn't been tested in Cowork yet.
 
-Ask Claude "what TeacherPlus data is loaded?" to check the setup. Out of the box it uses the fictional students in `sample-data/`.
+**Updates:** bump `version` in `.claude-plugin/plugin.json` when releasing. Users then run `claude plugin marketplace update teacherplus` and `claude plugin update teacherplus@teacherplus`, or `/reload-plugins` inside a session.
+
+**Testing a local copy without installing:** `claude --plugin-dir /path/to/TeacherPlus`.
+
+Ask Claude "what TeacherPlus data is loaded?" to check the connector. Out of the box it uses the fictional students in `sample-data/`.
 
 ## Using your own data
 

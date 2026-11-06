@@ -36,3 +36,14 @@ A calendar table: **Day | Learning target ("I can...") | Key activities | Format
 ## Check before finishing
 
 Run an alignment check and show it as a small table: every goal → where it is taught → where it is assessed. Flag gaps or activities that don't serve a goal. Note differentiation (support and extension) for the main tasks.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Standards:** look up codes and wording with `python3 <plugin-root>/tools/standards.py get <code>` or `search "<topic>" --set math|ela|ngss --grade <g>`. Quote the official text. Never cite a code the tool can't find. For state-specific standards, ask the teacher to paste them.
+- **Misconceptions:** read `<plugin-root>/references/misconceptions/<subject>.md` (algebra-1, fractions, middle-school-science, ela) when it matches the topic, and use it for misconception notes and distractors. For other subjects, draw on known research and say the notes are general.
+
+## Evidence base
+
+Backward design (Wiggins & McTighe); spaced retrieval (Cepeda et al.; Dunlosky et al.); formative assessment (Wiliam). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

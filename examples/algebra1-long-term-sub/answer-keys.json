@@ -1,0 +1,3588 @@
+[
+ {
+  "id": "day1-do_now-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "5"
+   ],
+   [
+    1,
+    "7"
+   ]
+  ],
+  "answer": "y = 2x + 5"
+ },
+ {
+  "id": "day1-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "1"
+   ],
+   [
+    1,
+    "-2"
+   ]
+  ],
+  "answer": "y = −3x + 1"
+ },
+ {
+  "id": "day1-do_now-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "-4"
+   ],
+   [
+    1,
+    "-7/2"
+   ]
+  ],
+  "answer": "y = (1/2)x − 4"
+ },
+ {
+  "id": "day1-examples-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "7"
+   ],
+   [
+    "3",
+    "-2"
+   ]
+  ],
+  "answer": "y = −3x + 7"
+ },
+ {
+  "id": "day1-examples-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "5"
+   ],
+   [
+    "3",
+    "-1"
+   ]
+  ],
+  "answer": "y = −2x + 5"
+ },
+ {
+  "id": "day1-guided-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-3"
+   ],
+   [
+    "3",
+    "-9"
+   ]
+  ],
+  "answer": "y = −2x − 3"
+ },
+ {
+  "id": "day1-guided-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "2"
+   ],
+   [
+    "3",
+    "17"
+   ]
+  ],
+  "answer": "y = 5x + 2"
+ },
+ {
+  "id": "day1-guided-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "3"
+   ],
+   [
+    "3",
+    "-3"
+   ]
+  ],
+  "answer": "y = −2x + 3"
+ },
+ {
+  "id": "day1-independent-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "6"
+   ],
+   [
+    1,
+    "5"
+   ]
+  ],
+  "answer": "y = −x + 6"
+ },
+ {
+  "id": "day1-independent-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "0"
+   ],
+   [
+    1,
+    "2/3"
+   ]
+  ],
+  "answer": "y = (2/3)x"
+ },
+ {
+  "id": "day1-independent-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "8"
+   ],
+   [
+    "3",
+    "-4"
+   ]
+  ],
+  "answer": "y = −4x + 8"
+ },
+ {
+  "id": "day1-independent-4.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-5"
+   ],
+   [
+    "3",
+    "1"
+   ]
+  ],
+  "answer": "y = 2x − 5"
+ },
+ {
+  "id": "day1-independent-5.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "3"
+   ],
+   [
+    "3",
+    "-3"
+   ]
+  ],
+  "answer": "y = −2x + 3"
+ },
+ {
+  "id": "day1-independent-6.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-4"
+   ],
+   [
+    "3",
+    "5"
+   ]
+  ],
+  "answer": "y = 3x − 4"
+ },
+ {
+  "id": "day1-exit-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "3"
+   ],
+   [
+    "3",
+    "-3"
+   ]
+  ],
+  "answer": "y = −2x + 3"
+ },
+ {
+  "id": "day1-exit-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "2"
+   ],
+   [
+    1,
+    "5/4"
+   ]
+  ],
+  "answer": "y = −(3/4)x + 2"
+ },
+ {
+  "id": "day2-do_now-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "6"
+   ],
+   [
+    "3",
+    "0"
+   ]
+  ],
+  "answer": "y = −2x + 6"
+ },
+ {
+  "id": "day2-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "3"
+   ],
+   [
+    1,
+    "-1"
+   ]
+  ],
+  "answer": "y = −4x + 3"
+ },
+ {
+  "id": "day2-do_now-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "-2"
+   ],
+   [
+    1,
+    "-5/3"
+   ]
+  ],
+  "answer": "y = (1/3)x − 2"
+ },
+ {
+  "id": "day2-examples-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-3"
+   ],
+   [
+    "1",
+    "-1"
+   ],
+   [
+    "2",
+    "1"
+   ]
+  ],
+  "answer": "y = 2x − 3"
+ },
+ {
+  "id": "day2-examples-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "4"
+   ],
+   [
+    "3",
+    "2"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "answer": "y = −(2/3)x + 4"
+ },
+ {
+  "id": "day2-guided-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "2"
+   ],
+   [
+    "1",
+    "3"
+   ],
+   [
+    "2",
+    "4"
+   ]
+  ],
+  "answer": "y = x + 2"
+ },
+ {
+  "id": "day2-guided-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "5"
+   ],
+   [
+    "1",
+    "2"
+   ],
+   [
+    "2",
+    "-1"
+   ]
+  ],
+  "answer": "y = −3x + 5"
+ },
+ {
+  "id": "day2-guided-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-1"
+   ],
+   [
+    "2",
+    "0"
+   ],
+   [
+    "4",
+    "1"
+   ]
+  ],
+  "answer": "y = (1/2)x − 1"
+ },
+ {
+  "id": "day2-independent-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-4"
+   ],
+   [
+    "1",
+    "-1"
+   ],
+   [
+    "2",
+    "2"
+   ]
+  ],
+  "answer": "y = 3x − 4"
+ },
+ {
+  "id": "day2-independent-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "0"
+   ],
+   [
+    "1",
+    "-1"
+   ],
+   [
+    "2",
+    "-2"
+   ]
+  ],
+  "answer": "y = −x"
+ },
+ {
+  "id": "day2-independent-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-2"
+   ],
+   [
+    "4",
+    "1"
+   ],
+   [
+    "8",
+    "4"
+   ]
+  ],
+  "answer": "y = (3/4)x − 2"
+ },
+ {
+  "id": "day2-independent-4.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "3"
+   ],
+   [
+    "2",
+    "2"
+   ],
+   [
+    "4",
+    "1"
+   ]
+  ],
+  "answer": "y = −(1/2)x + 3"
+ },
+ {
+  "id": "day2-independent-5.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "1"
+   ],
+   [
+    "1",
+    "5"
+   ],
+   [
+    "2",
+    "9"
+   ]
+  ],
+  "answer": "y = 4x + 1"
+ },
+ {
+  "id": "day2-independent-6.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "6"
+   ],
+   [
+    "2",
+    "1"
+   ],
+   [
+    "4",
+    "-4"
+   ]
+  ],
+  "answer": "y = −(5/2)x + 6"
+ },
+ {
+  "id": "day2-exit-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "4"
+   ],
+   [
+    "1",
+    "2"
+   ],
+   [
+    "2",
+    "0"
+   ]
+  ],
+  "answer": "y = −2x + 4"
+ },
+ {
+  "id": "day2-exit-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-3"
+   ],
+   [
+    "5",
+    "-1"
+   ],
+   [
+    "10",
+    "1"
+   ]
+  ],
+  "answer": "y = (2/5)x − 3"
+ },
+ {
+  "id": "day3-do_now-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-2"
+   ],
+   [
+    "1",
+    "-1"
+   ],
+   [
+    "2",
+    "0"
+   ]
+  ],
+  "answer": "y = x − 2"
+ },
+ {
+  "id": "day3-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "4"
+   ],
+   [
+    "3",
+    "-5"
+   ]
+  ],
+  "answer": "y = −3x + 4"
+ },
+ {
+  "id": "day3-do_now-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "7"
+   ],
+   [
+    1,
+    "5"
+   ]
+  ],
+  "answer": "y = −2x + 7"
+ },
+ {
+  "id": "day3-examples-1.1",
+  "type": "point_check",
+  "problem": "x + y = 5",
+  "point": {
+   "x": "2",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-examples-1.2",
+  "type": "point_check",
+  "problem": "2x − y = 1",
+  "point": {
+   "x": "2",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-examples-2.1",
+  "type": "point_check",
+  "problem": "−2x + y = 1",
+  "point": {
+   "x": "1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-examples-2.2",
+  "type": "point_check",
+  "problem": "x + y = 6",
+  "point": {
+   "x": "1",
+   "y": "3"
+  },
+  "answer": false
+ },
+ {
+  "id": "day3-guided-1.1",
+  "type": "point_check",
+  "problem": "x + y = 7",
+  "point": {
+   "x": "4",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-guided-1.2",
+  "type": "point_check",
+  "problem": "x − y = 1",
+  "point": {
+   "x": "4",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-guided-2.1",
+  "type": "point_check",
+  "problem": "2x + y = 8",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-guided-2.2",
+  "type": "point_check",
+  "problem": "x − y = 4",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": false
+ },
+ {
+  "id": "day3-guided-3.1",
+  "type": "point_check",
+  "problem": "x + y = 6",
+  "point": {
+   "x": "2",
+   "y": "4"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-guided-3.2",
+  "type": "point_check",
+  "problem": "−3x + y = −2",
+  "point": {
+   "x": "2",
+   "y": "4"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-1.1",
+  "type": "point_check",
+  "problem": "3x + y = 10",
+  "point": {
+   "x": "3",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-1.2",
+  "type": "point_check",
+  "problem": "x + 2y = 5",
+  "point": {
+   "x": "3",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-2.1",
+  "type": "point_check",
+  "problem": "x + y = 0",
+  "point": {
+   "x": "3",
+   "y": "-3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-2.2",
+  "type": "point_check",
+  "problem": "2x + y = 3",
+  "point": {
+   "x": "3",
+   "y": "-3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-3.1",
+  "type": "point_check",
+  "problem": "x − 2y = 4",
+  "point": {
+   "x": "2",
+   "y": "-1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-3.2",
+  "type": "point_check",
+  "problem": "3x + y = 5",
+  "point": {
+   "x": "2",
+   "y": "-1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-4.1",
+  "type": "point_check",
+  "problem": "−2x + y = −3",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-4.2",
+  "type": "point_check",
+  "problem": "x + y = 3",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-5.1",
+  "type": "point_check",
+  "problem": "4x − y = 9",
+  "point": {
+   "x": "2",
+   "y": "-1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-5.2",
+  "type": "point_check",
+  "problem": "x + 3y = −1",
+  "point": {
+   "x": "2",
+   "y": "-1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-6.1",
+  "type": "point_check",
+  "problem": "5x + 2y = 1",
+  "point": {
+   "x": "-1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-independent-6.2",
+  "type": "point_check",
+  "problem": "x + y = 2",
+  "point": {
+   "x": "-1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-exit-1.1",
+  "type": "point_check",
+  "problem": "2x + 3y = 12",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-exit-1.2",
+  "type": "point_check",
+  "problem": "x − y = 1",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-exit-2.1",
+  "type": "point_check",
+  "problem": "x + 4y = 9",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day3-exit-2.2",
+  "type": "point_check",
+  "problem": "2x − y = 0",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day4-do_now-1.1",
+  "type": "point_check",
+  "problem": "x + y = 6",
+  "point": {
+   "x": "4",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day4-do_now-1.2",
+  "type": "point_check",
+  "problem": "x − y = 2",
+  "point": {
+   "x": "4",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day4-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "3"
+   ],
+   [
+    "1",
+    "2"
+   ],
+   [
+    "2",
+    "1"
+   ]
+  ],
+  "answer": "y = −x + 3"
+ },
+ {
+  "id": "day4-do_now-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-1"
+   ],
+   [
+    "1",
+    "1"
+   ],
+   [
+    "2",
+    "3"
+   ]
+  ],
+  "answer": "y = 2x − 1"
+ },
+ {
+  "id": "day4-examples-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 1",
+   "x + y = 5"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day4-examples-2.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = −3",
+   "(1/2)x + y = 2"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day4-guided-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 2",
+   "−2x + y = 3"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day4-guided-2.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 4",
+   "−x + y = 1"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day4-guided-3.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = −2",
+   "x + y = −2"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "-2"
+  }
+ },
+ {
+  "id": "day4-independent-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 3",
+   "2x + y = 6"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day4-independent-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 3",
+   "−(1/2)x + y = 0"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day4-independent-3.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = −1",
+   "x + y = −4"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "-3"
+  }
+ },
+ {
+  "id": "day4-independent-4.1",
+  "type": "system",
+  "problem": [
+   "−(1/3)x + y = 1",
+   "x + y = 5"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day4-independent-5.1",
+  "type": "system",
+  "problem": [
+   "3x + y = 5",
+   "−x + y = −3"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day4-independent-6.1",
+  "type": "system",
+  "problem": [
+   "−4x + y = 3",
+   "−2x + y = 3"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day4-exit-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 1",
+   "3x + y = 5"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day4-exit-2.1",
+  "type": "system",
+  "problem": [
+   "−(1/2)x + y = 2",
+   "2x + y = −3"
+  ],
+  "answer": {
+   "x": "-2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day5-do_now-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "-2"
+   ],
+   [
+    1,
+    "1"
+   ]
+  ],
+  "answer": "y = 3x − 2"
+ },
+ {
+  "id": "day5-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "5"
+   ],
+   [
+    "3",
+    "-1"
+   ]
+  ],
+  "answer": "y = −2x + 5"
+ },
+ {
+  "id": "day5-quiz-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "4"
+   ],
+   [
+    "3",
+    "-5"
+   ]
+  ],
+  "answer": "y = −3x + 4"
+ },
+ {
+  "id": "day5-quiz-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "9"
+   ],
+   [
+    1,
+    "5"
+   ]
+  ],
+  "answer": "y = −4x + 9"
+ },
+ {
+  "id": "day5-quiz-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "2"
+   ],
+   [
+    "3",
+    "1"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "answer": "y = −(1/3)x + 2"
+ },
+ {
+  "id": "day5-quiz-4.1",
+  "type": "point_check",
+  "problem": "x + 2y = 7",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day5-quiz-4.2",
+  "type": "point_check",
+  "problem": "3x − y = 7",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day5-quiz-5.1",
+  "type": "point_check",
+  "problem": "2x + y = 5",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day5-quiz-5.2",
+  "type": "point_check",
+  "problem": "x + y = 4",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": false
+ },
+ {
+  "id": "day5-quiz-6.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = −1",
+   "x + y = 2"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day5-quiz-7.1",
+  "type": "system",
+  "problem": [
+   "−(1/2)x + y = 1",
+   "x + y = 4"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day5-quiz-8.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-6"
+   ],
+   [
+    "3",
+    "3"
+   ]
+  ],
+  "answer": "y = 3x − 6"
+ },
+ {
+  "id": "day6-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 1",
+   "x + y = 3"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day6-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "2"
+   ],
+   [
+    "3",
+    "-7"
+   ]
+  ],
+  "answer": "y = −3x + 2"
+ },
+ {
+  "id": "day6-do_now-3.1",
+  "type": "point_check",
+  "problem": "x + y = 4",
+  "point": {
+   "x": "3",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day6-do_now-3.2",
+  "type": "point_check",
+  "problem": "2x − y = 5",
+  "point": {
+   "x": "3",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day6-examples-1.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 3",
+   "3x + y = 8"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day6-examples-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 2",
+   "2x − 3y = 14"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "-2"
+  }
+ },
+ {
+  "id": "day6-guided-1.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = −2",
+   "x + y = 6"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day6-guided-2.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 7",
+   "4x + y = 9"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day6-guided-3.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 2",
+   "2x + 3y = −9"
+  ],
+  "answer": {
+   "x": "-3",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day6-independent-1.1",
+  "type": "system",
+  "problem": [
+   "−4x + y = −3",
+   "x + y = 2"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day6-independent-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 3",
+   "3x + 2y = 11"
+  ],
+  "answer": {
+   "x": "5",
+   "y": "-2"
+  }
+ },
+ {
+  "id": "day6-independent-3.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 4",
+   "5x − y = −10"
+  ],
+  "answer": {
+   "x": "-2",
+   "y": "0"
+  }
+ },
+ {
+  "id": "day6-independent-4.1",
+  "type": "system",
+  "problem": [
+   "3x + y = 2",
+   "x + 2y = −6"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "-4"
+  }
+ },
+ {
+  "id": "day6-independent-5.1",
+  "type": "system",
+  "problem": [
+   "−x + y = −2",
+   "2x − 3y = 0"
+  ],
+  "answer": {
+   "x": "6",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day6-independent-6.1",
+  "type": "system",
+  "problem": [
+   "−5x + y = 3",
+   "2x + y = 3"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day6-exit-1.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 1",
+   "x + y = 10"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "7"
+  }
+ },
+ {
+  "id": "day6-exit-2.1",
+  "type": "system",
+  "problem": [
+   "4x + y = 4",
+   "3x + 2y = 3"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "0"
+  }
+ },
+ {
+  "id": "day7-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 1",
+   "x + y = 4"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day7-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "3"
+   ],
+   [
+    "3",
+    "-12"
+   ]
+  ],
+  "answer": "y = −5x + 3"
+ },
+ {
+  "id": "day7-do_now-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "6"
+   ],
+   [
+    1,
+    "11/2"
+   ]
+  ],
+  "answer": "y = −(1/2)x + 6"
+ },
+ {
+  "id": "day7-examples-1.1",
+  "type": "system",
+  "problem": [
+   "3x + y = 7",
+   "2x + 5y = 9"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day7-examples-2.1",
+  "type": "system",
+  "problem": [
+   "x − 2y = 2",
+   "3x + 4y = 16"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day7-guided-1.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 5",
+   "3x − 2y = 11"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day7-guided-2.1",
+  "type": "system",
+  "problem": [
+   "x + 4y = 6",
+   "3x − 2y = 4"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day7-guided-3.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 4",
+   "4x + 3y = 19"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day7-independent-1.1",
+  "type": "system",
+  "problem": [
+   "4x + y = 6",
+   "3x + 2y = 7"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day7-independent-2.1",
+  "type": "system",
+  "problem": [
+   "x − 3y = 2",
+   "2x + y = 11"
+  ],
+  "answer": {
+   "x": "5",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day7-independent-3.1",
+  "type": "system",
+  "problem": [
+   "5x − y = −4",
+   "2x + 3y = 12"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day7-independent-4.1",
+  "type": "system",
+  "problem": [
+   "x + 2y = 4",
+   "4x − 3y = −17"
+  ],
+  "answer": {
+   "x": "-2",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day7-independent-5.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = 1",
+   "2x − y = −3"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "7"
+  }
+ },
+ {
+  "id": "day7-independent-6.1",
+  "type": "system",
+  "problem": [
+   "x + 5y = −1",
+   "−2x − 3y = −5"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day7-exit-1.1",
+  "type": "system",
+  "problem": [
+   "3x + y = 7",
+   "2x − 3y = −10"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day7-exit-2.1",
+  "type": "system",
+  "problem": [
+   "x − y = 4",
+   "2x + 3y = 18"
+  ],
+  "answer": {
+   "x": "6",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day8-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 5",
+   "x − y = −2"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day8-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "1"
+   ],
+   [
+    "1",
+    "3"
+   ],
+   [
+    "2",
+    "5"
+   ]
+  ],
+  "answer": "y = 2x + 1"
+ },
+ {
+  "id": "day8-do_now-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "-3"
+   ],
+   [
+    "1",
+    "-1"
+   ],
+   [
+    "2",
+    "1"
+   ]
+  ],
+  "answer": "y = 2x − 3"
+ },
+ {
+  "id": "day8-examples-1.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 1",
+   "4x − 2y = 6"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day8-examples-2.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = −2",
+   "6x − 2y = 4"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day8-examples-3.1",
+  "type": "system",
+  "problem": [
+   "x + 2y = 5",
+   "2x + y = 5"
+  ],
+  "answer": {
+   "x": "5/3",
+   "y": "5/3"
+  }
+ },
+ {
+  "id": "day8-guided-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 4",
+   "3x − 3y = −12"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day8-guided-2.1",
+  "type": "system",
+  "problem": [
+   "−4x + y = 1",
+   "8x − 2y = 6"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day8-guided-3.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 3",
+   "x + y = 6"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day8-independent-1.1",
+  "type": "system",
+  "problem": [
+   "−5x + y = 2",
+   "10x − 2y = 4"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day8-independent-2.1",
+  "type": "system",
+  "problem": [
+   "−5x + y = 2",
+   "10x − 2y = −4"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day8-independent-3.1",
+  "type": "system",
+  "problem": [
+   "x + y = 4",
+   "3x + 3y = 12"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day8-independent-4.1",
+  "type": "system",
+  "problem": [
+   "x + y = 5",
+   "2x + 2y = 7"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day8-independent-5.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 1",
+   "x + 3y = −2"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day8-independent-6.1",
+  "type": "system",
+  "problem": [
+   "−(1/2)x + y = 3",
+   "x − 2y = −6"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day8-exit-1.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 5",
+   "6x − 3y = 2"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day8-exit-2.1",
+  "type": "system",
+  "problem": [
+   "−x + y = −3",
+   "2x − 2y = 6"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day9-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 7",
+   "2x − y = 2"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day9-do_now-2.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = 1",
+   "6x − 2y = 5"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day9-examples-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 200",
+   "8x + 5y = 1240"
+  ],
+  "answer": {
+   "x": "80",
+   "y": "120"
+  }
+ },
+ {
+  "id": "day9-examples-2.1",
+  "type": "system",
+  "problem": [
+   "−15x + y = 20",
+   "−10x + y = 50"
+  ],
+  "answer": {
+   "x": "6",
+   "y": "110"
+  }
+ },
+ {
+  "id": "day9-guided-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 45",
+   "x − y = 9"
+  ],
+  "answer": {
+   "x": "27",
+   "y": "18"
+  }
+ },
+ {
+  "id": "day9-guided-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 50",
+   "2x + 4y = 140"
+  ],
+  "answer": {
+   "x": "30",
+   "y": "20"
+  }
+ },
+ {
+  "id": "day9-independent-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 80",
+   "4x + 2y = 250"
+  ],
+  "answer": {
+   "x": "45",
+   "y": "35"
+  }
+ },
+ {
+  "id": "day9-independent-2.1",
+  "type": "system",
+  "problem": [
+   "−5x + y = 30",
+   "−2x + y = 45"
+  ],
+  "answer": {
+   "x": "5",
+   "y": "55"
+  }
+ },
+ {
+  "id": "day9-independent-3.1",
+  "type": "system",
+  "problem": [
+   "x + y = 25",
+   "10x + 25y = 400"
+  ],
+  "answer": {
+   "x": "15",
+   "y": "10"
+  }
+ },
+ {
+  "id": "day9-independent-4.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 3",
+   "2x + 2y = 36"
+  ],
+  "answer": {
+   "x": "5",
+   "y": "13"
+  }
+ },
+ {
+  "id": "day9-exit-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 35",
+   "12x + 20y = 500"
+  ],
+  "answer": {
+   "x": "25",
+   "y": "10"
+  }
+ },
+ {
+  "id": "day10-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 2",
+   "x + y = 6"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day10-do_now-2.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "1"
+   ],
+   [
+    "2",
+    "2"
+   ],
+   [
+    "4",
+    "3"
+   ]
+  ],
+  "answer": "y = (1/2)x + 1"
+ },
+ {
+  "id": "day10-quiz-1.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = −1",
+   "2x + y = 7"
+  ],
+  "answer": {
+   "x": "8/5",
+   "y": "19/5"
+  }
+ },
+ {
+  "id": "day10-quiz-2.1",
+  "type": "system",
+  "problem": [
+   "x + 3y = 11",
+   "4x − y = 5"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day10-quiz-3.1",
+  "type": "system",
+  "problem": [
+   "2x − y = −4",
+   "3x + 2y = 1"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day10-quiz-4.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 4",
+   "6x − 3y = 3"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day10-quiz-5.1",
+  "type": "system",
+  "problem": [
+   "−x + y = 3",
+   "2x − 2y = −6"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day10-quiz-6.1",
+  "type": "system",
+  "problem": [
+   "x + y = 12",
+   "9x + 6y = 87"
+  ],
+  "answer": {
+   "x": "5",
+   "y": "7"
+  }
+ },
+ {
+  "id": "day11-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 7",
+   "3x − y = 1"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day11-do_now-2.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = 1",
+   "6x − 2y = −2"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day11-do_now-3.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "4"
+   ],
+   [
+    1,
+    "3"
+   ]
+  ],
+  "answer": "y = −x + 4"
+ },
+ {
+  "id": "day11-examples-1.1",
+  "type": "system",
+  "problem": [
+   "3x + 2y = 12",
+   "5x − 2y = 4"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day11-examples-2.1",
+  "type": "system",
+  "problem": [
+   "x + 4y = 7",
+   "−x + 3y = 7"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day11-guided-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 5",
+   "x − y = 3"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day11-guided-2.1",
+  "type": "system",
+  "problem": [
+   "2x + 5y = 1",
+   "−2x + 3y = −9"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day11-guided-3.1",
+  "type": "system",
+  "problem": [
+   "4x − 3y = −6",
+   "x + 3y = 6"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day11-independent-1.1",
+  "type": "system",
+  "problem": [
+   "3x + y = 10",
+   "2x − y = 0"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day11-independent-2.1",
+  "type": "system",
+  "problem": [
+   "−5x + 2y = 1",
+   "5x + 4y = 17"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day11-independent-3.1",
+  "type": "system",
+  "problem": [
+   "x − 6y = −3",
+   "2x + 6y = 12"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day11-independent-4.1",
+  "type": "system",
+  "problem": [
+   "7x + 3y = 5",
+   "−7x + 2y = 15"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day11-independent-5.1",
+  "type": "system",
+  "problem": [
+   "2x − 5y = 0",
+   "3x + 5y = 25"
+  ],
+  "answer": {
+   "x": "5",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day11-independent-6.1",
+  "type": "system",
+  "problem": [
+   "−4x + y = 5",
+   "4x + 3y = −17"
+  ],
+  "answer": {
+   "x": "-2",
+   "y": "-3"
+  }
+ },
+ {
+  "id": "day11-exit-1.1",
+  "type": "system",
+  "problem": [
+   "5x + 2y = 9",
+   "3x − 2y = −1"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day11-exit-2.1",
+  "type": "system",
+  "problem": [
+   "−3x + 4y = 2",
+   "3x + y = 8"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day12-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "x + 2y = 5",
+   "x − 2y = 1"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day12-do_now-2.1",
+  "type": "system",
+  "problem": [
+   "x − y = 2",
+   "2x + 3y = 4"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "0"
+  }
+ },
+ {
+  "id": "day12-examples-1.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 7",
+   "3x − 2y = 0"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day12-examples-2.1",
+  "type": "system",
+  "problem": [
+   "3x + 4y = 6",
+   "x + 2y = 4"
+  ],
+  "answer": {
+   "x": "-2",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day12-guided-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 7",
+   "3x + 2y = 19"
+  ],
+  "answer": {
+   "x": "5",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day12-guided-2.1",
+  "type": "system",
+  "problem": [
+   "4x − 3y = 6",
+   "2x + y = 8"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day12-guided-3.1",
+  "type": "system",
+  "problem": [
+   "5x + 2y = 3",
+   "x − y = −5"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day12-independent-1.1",
+  "type": "system",
+  "problem": [
+   "2x + 3y = 3",
+   "x − y = 4"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day12-independent-2.1",
+  "type": "system",
+  "problem": [
+   "3x + y = 11",
+   "5x + 2y = 20"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day12-independent-3.1",
+  "type": "system",
+  "problem": [
+   "x + 4y = 2",
+   "3x − 2y = −8"
+  ],
+  "answer": {
+   "x": "-2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day12-independent-4.1",
+  "type": "system",
+  "problem": [
+   "6x + 5y = 15",
+   "3x + 2y = 6"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day12-independent-5.1",
+  "type": "system",
+  "problem": [
+   "2x − y = 10",
+   "5x + 3y = 14"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "-2"
+  }
+ },
+ {
+  "id": "day12-independent-6.1",
+  "type": "system",
+  "problem": [
+   "7x + 2y = 1",
+   "x + y = −2"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "-3"
+  }
+ },
+ {
+  "id": "day12-exit-1.1",
+  "type": "system",
+  "problem": [
+   "3x + 2y = 10",
+   "x + y = 3"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day12-exit-2.1",
+  "type": "system",
+  "problem": [
+   "2x + 5y = 4",
+   "4x − y = −14"
+  ],
+  "answer": {
+   "x": "-3",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day13-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 5",
+   "3x − y = 0"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day13-do_now-2.1",
+  "type": "system",
+  "problem": [
+   "x + 2y = 2",
+   "3x + 5y = 7"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day13-examples-1.1",
+  "type": "system",
+  "problem": [
+   "3x + 4y = 10",
+   "2x + 3y = 7"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day13-examples-2.1",
+  "type": "system",
+  "problem": [
+   "5x + 3y = 4",
+   "4x − 2y = −10"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day13-guided-1.1",
+  "type": "system",
+  "problem": [
+   "2x + 3y = 8",
+   "3x + 5y = 13"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day13-guided-2.1",
+  "type": "system",
+  "problem": [
+   "4x + 3y = 6",
+   "3x − 2y = 13"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "-2"
+  }
+ },
+ {
+  "id": "day13-guided-3.1",
+  "type": "system",
+  "problem": [
+   "5x + 2y = 8",
+   "3x − 5y = 11"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day13-independent-1.1",
+  "type": "system",
+  "problem": [
+   "3x + 5y = 7",
+   "2x + 3y = 4"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day13-independent-2.1",
+  "type": "system",
+  "problem": [
+   "4x − 3y = 1",
+   "6x + 5y = 11"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day13-independent-3.1",
+  "type": "system",
+  "problem": [
+   "2x + 7y = 1",
+   "3x − 4y = 16"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day13-independent-4.1",
+  "type": "system",
+  "problem": [
+   "5x + 4y = −2",
+   "3x + 6y = −12"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "-3"
+  }
+ },
+ {
+  "id": "day13-independent-5.1",
+  "type": "system",
+  "problem": [
+   "7x + 3y = 15",
+   "5x + 2y = 10"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day13-independent-6.1",
+  "type": "system",
+  "problem": [
+   "3x + 4y = 5",
+   "5x + 6y = 8"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "1/2"
+  }
+ },
+ {
+  "id": "day13-exit-1.1",
+  "type": "system",
+  "problem": [
+   "3x + 2y = 6",
+   "2x + 5y = −7"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "-3"
+  }
+ },
+ {
+  "id": "day13-exit-2.1",
+  "type": "system",
+  "problem": [
+   "4x + 5y = 6",
+   "6x − 7y = −20"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day14-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 5",
+   "2x − y = 4"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day14-do_now-2.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = −1",
+   "3x + y = 4"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day14-examples-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 5",
+   "2x + 3y = 12"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day14-examples-2.1",
+  "type": "system",
+  "problem": [
+   "4x + 3y = 5",
+   "2x − 3y = 7"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day14-quiz-1.1",
+  "type": "system",
+  "problem": [
+   "3x + 2y = 11",
+   "5x − 2y = −3"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day14-quiz-2.1",
+  "type": "system",
+  "problem": [
+   "2x + 3y = 7",
+   "3x + 2y = 3"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day14-quiz-3.1",
+  "type": "system",
+  "problem": [
+   "x − 4y = 2",
+   "3x + 5y = 6"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "0"
+  }
+ },
+ {
+  "id": "day14-quiz-4.1",
+  "type": "system",
+  "problem": [
+   "2x − 3y = 5",
+   "−4x + 6y = −10"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day14-quiz-5.1",
+  "type": "system",
+  "problem": [
+   "3x + y = 4",
+   "6x + 2y = 5"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day15-do_now-1.1",
+  "type": "system",
+  "problem": [
+   "2x + 3y = 9",
+   "4x − 3y = 9"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day15-do_now-2.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = 2",
+   "3x − y = −2"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day15-examples-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 30",
+   "x + 4y = 60"
+  ],
+  "answer": {
+   "x": "20",
+   "y": "10"
+  }
+ },
+ {
+  "id": "day15-examples-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 12",
+   "x − y = 8"
+  ],
+  "answer": {
+   "x": "10",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day15-guided-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 120",
+   "6x + 3y = 540"
+  ],
+  "answer": {
+   "x": "60",
+   "y": "60"
+  }
+ },
+ {
+  "id": "day15-guided-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 30",
+   "2x + 5y = 90"
+  ],
+  "answer": {
+   "x": "20",
+   "y": "10"
+  }
+ },
+ {
+  "id": "day15-independent-1.1",
+  "type": "system",
+  "problem": [
+   "−(1/10)x + y = 25",
+   "y = 40"
+  ],
+  "answer": {
+   "x": "150",
+   "y": "40"
+  }
+ },
+ {
+  "id": "day15-independent-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 400",
+   "x − y = 300"
+  ],
+  "answer": {
+   "x": "350",
+   "y": "50"
+  }
+ },
+ {
+  "id": "day15-independent-3.1",
+  "type": "system",
+  "problem": [
+   "x + y = 5000",
+   "3x + 5y = 19000"
+  ],
+  "answer": {
+   "x": "3000",
+   "y": "2000"
+  }
+ },
+ {
+  "id": "day15-independent-4.1",
+  "type": "system",
+  "problem": [
+   "x + y = 90",
+   "−2x + y = −15"
+  ],
+  "answer": {
+   "x": "35",
+   "y": "55"
+  }
+ },
+ {
+  "id": "day15-exit-1.1",
+  "type": "system",
+  "problem": [
+   "x + y = 40",
+   "2x + y = 52"
+  ],
+  "answer": {
+   "x": "12",
+   "y": "28"
+  }
+ },
+ {
+  "id": "day16-do_now-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "1"
+   ],
+   [
+    "1",
+    "3"
+   ],
+   [
+    "2",
+    "5"
+   ]
+  ],
+  "answer": "y = 2x + 1"
+ },
+ {
+  "id": "day16-do_now-2.1",
+  "type": "system",
+  "problem": [
+   "x + y = 5",
+   "x − y = −3"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "4"
+  }
+ },
+ {
+  "id": "day16-examples-1.1",
+  "type": "point_check",
+  "problem": "y > 2x + 1",
+  "point": {
+   "x": "0",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day16-examples-2.1",
+  "type": "point_check",
+  "problem": "y <= −(1/2)x + 3",
+  "point": {
+   "x": "0",
+   "y": "4"
+  },
+  "answer": false
+ },
+ {
+  "id": "day16-guided-1.1",
+  "type": "point_check",
+  "problem": "y < x − 2",
+  "point": {
+   "x": "0",
+   "y": "-1"
+  },
+  "answer": false
+ },
+ {
+  "id": "day16-guided-2.1",
+  "type": "point_check",
+  "problem": "y >= −3x + 4",
+  "point": {
+   "x": "0",
+   "y": "5"
+  },
+  "answer": true
+ },
+ {
+  "id": "day16-guided-3.1",
+  "type": "point_check",
+  "problem": "y > (1/3)x",
+  "point": {
+   "x": "0",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day16-independent-1.1",
+  "type": "point_check",
+  "problem": "y <= −x + 5",
+  "point": {
+   "x": "0",
+   "y": "6"
+  },
+  "answer": false
+ },
+ {
+  "id": "day16-independent-2.1",
+  "type": "point_check",
+  "problem": "y >= 2x − 3",
+  "point": {
+   "x": "0",
+   "y": "-2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day16-independent-3.1",
+  "type": "point_check",
+  "problem": "y < −(2/3)x + 1",
+  "point": {
+   "x": "0",
+   "y": "2"
+  },
+  "answer": false
+ },
+ {
+  "id": "day16-independent-4.1",
+  "type": "point_check",
+  "problem": "y < 4x",
+  "point": {
+   "x": "0",
+   "y": "1"
+  },
+  "answer": false
+ },
+ {
+  "id": "day16-independent-5.1",
+  "type": "point_check",
+  "problem": "y > 2x + 1",
+  "point": {
+   "x": "1",
+   "y": "4"
+  },
+  "answer": true
+ },
+ {
+  "id": "day16-independent-6.1",
+  "type": "point_check",
+  "problem": "y <= −x + 3",
+  "point": {
+   "x": "2",
+   "y": "2"
+  },
+  "answer": false
+ },
+ {
+  "id": "day16-exit-1.1",
+  "type": "point_check",
+  "problem": "y > −2x + 3",
+  "point": {
+   "x": "0",
+   "y": "4"
+  },
+  "answer": true
+ },
+ {
+  "id": "day16-exit-2.1",
+  "type": "point_check",
+  "problem": "y < 3x − 1",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": false
+ },
+ {
+  "id": "day17-do_now-1.1",
+  "type": "point_check",
+  "problem": "y < x + 2",
+  "point": {
+   "x": "0",
+   "y": "3"
+  },
+  "answer": false
+ },
+ {
+  "id": "day17-do_now-2.1",
+  "type": "point_check",
+  "problem": "y >= −2x + 4",
+  "point": {
+   "x": "1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-examples-1.1",
+  "type": "point_check",
+  "problem": "y > x + 1",
+  "point": {
+   "x": "1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-examples-1.2",
+  "type": "point_check",
+  "problem": "y <= −x + 4",
+  "point": {
+   "x": "1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-examples-2.1",
+  "type": "point_check",
+  "problem": "y >= 2x − 1",
+  "point": {
+   "x": "2",
+   "y": "2"
+  },
+  "answer": false
+ },
+ {
+  "id": "day17-examples-2.2",
+  "type": "point_check",
+  "problem": "y < −(1/2)x + 2",
+  "point": {
+   "x": "2",
+   "y": "2"
+  },
+  "answer": false
+ },
+ {
+  "id": "day17-guided-1.1",
+  "type": "point_check",
+  "problem": "y > x",
+  "point": {
+   "x": "2",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-guided-1.2",
+  "type": "point_check",
+  "problem": "y < −x + 6",
+  "point": {
+   "x": "2",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-guided-2.1",
+  "type": "point_check",
+  "problem": "y <= 2x + 1",
+  "point": {
+   "x": "0",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-guided-2.2",
+  "type": "point_check",
+  "problem": "y >= −x − 2",
+  "point": {
+   "x": "0",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-guided-3.1",
+  "type": "point_check",
+  "problem": "y > (1/2)x + 1",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": false
+ },
+ {
+  "id": "day17-guided-3.2",
+  "type": "point_check",
+  "problem": "y > −3x + 5",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-1.1",
+  "type": "point_check",
+  "problem": "y < −x + 4",
+  "point": {
+   "x": "0",
+   "y": "5"
+  },
+  "answer": false
+ },
+ {
+  "id": "day17-independent-2.1",
+  "type": "point_check",
+  "problem": "y >= x − 2",
+  "point": {
+   "x": "0",
+   "y": "-1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-3.1",
+  "type": "point_check",
+  "problem": "y < −x + 4",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-3.2",
+  "type": "point_check",
+  "problem": "y >= x − 2",
+  "point": {
+   "x": "2",
+   "y": "1"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-4.1",
+  "type": "point_check",
+  "problem": "y < −x + 4",
+  "point": {
+   "x": "4",
+   "y": "3"
+  },
+  "answer": false
+ },
+ {
+  "id": "day17-independent-4.2",
+  "type": "point_check",
+  "problem": "y >= x − 2",
+  "point": {
+   "x": "4",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-5.1",
+  "type": "point_check",
+  "problem": "y <= 3x",
+  "point": {
+   "x": "1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-5.2",
+  "type": "point_check",
+  "problem": "y > 2",
+  "point": {
+   "x": "1",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-6.1",
+  "type": "point_check",
+  "problem": "y > −2x + 1",
+  "point": {
+   "x": "3",
+   "y": "0"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-independent-6.2",
+  "type": "point_check",
+  "problem": "y < (1/2)x − 1",
+  "point": {
+   "x": "3",
+   "y": "0"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-exit-1.1",
+  "type": "point_check",
+  "problem": "y > 2x − 3",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-exit-1.2",
+  "type": "point_check",
+  "problem": "y <= −x + 5",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-exit-2.1",
+  "type": "point_check",
+  "problem": "y > 2x − 3",
+  "point": {
+   "x": "3",
+   "y": "4"
+  },
+  "answer": true
+ },
+ {
+  "id": "day17-exit-2.2",
+  "type": "point_check",
+  "problem": "y <= −x + 5",
+  "point": {
+   "x": "3",
+   "y": "4"
+  },
+  "answer": false
+ },
+ {
+  "id": "day18-do_now-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    0,
+    "-1"
+   ],
+   [
+    1,
+    "1/2"
+   ]
+  ],
+  "answer": "y = (3/2)x − 1"
+ },
+ {
+  "id": "day18-do_now-2.1",
+  "type": "point_check",
+  "problem": "x + y = 3",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day18-do_now-2.2",
+  "type": "point_check",
+  "problem": "2x − y = 0",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day18-guided-1.1",
+  "type": "system",
+  "problem": [
+   "−x + y = −1",
+   "x + y = 3"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day18-guided-2.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 2",
+   "−(1/2)x + y = 2"
+  ],
+  "answer": {
+   "x": "0",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day18-guided-3.1",
+  "type": "system",
+  "problem": [
+   "−3x + y = −2",
+   "2x + y = 6"
+  ],
+  "answer": {
+   "x": "8/5",
+   "y": "14/5"
+  }
+ },
+ {
+  "id": "day18-guided-4.1",
+  "type": "system",
+  "problem": [
+   "x + 2y = 5",
+   "3x − y = −6"
+  ],
+  "answer": {
+   "x": "-1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day18-independent-1.1",
+  "type": "system",
+  "problem": [
+   "2x + 3y = 3",
+   "4x − 3y = 15"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day18-independent-2.1",
+  "type": "system",
+  "problem": [
+   "3x + 4y = 2",
+   "5x + 6y = 4"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "-1"
+  }
+ },
+ {
+  "id": "day18-independent-3.1",
+  "type": "system",
+  "problem": [
+   "2x + 4y = 6",
+   "3x + 6y = 9"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day18-independent-4.1",
+  "type": "system",
+  "problem": [
+   "x + y = 300",
+   "25x + 15y = 5900"
+  ],
+  "answer": {
+   "x": "140",
+   "y": "160"
+  }
+ },
+ {
+  "id": "day18-independent-5.1",
+  "type": "point_check",
+  "problem": "y >= −(1/2)x + 2",
+  "point": {
+   "x": "0",
+   "y": "3"
+  },
+  "answer": true
+ },
+ {
+  "id": "day18-independent-6.1",
+  "type": "point_check",
+  "problem": "y > x − 1",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day18-independent-6.2",
+  "type": "point_check",
+  "problem": "y < −2x + 6",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day19-quiz-1.1",
+  "type": "line_through",
+  "problem": [
+   [
+    "0",
+    "5"
+   ],
+   [
+    "3",
+    "-4"
+   ]
+  ],
+  "answer": "y = −3x + 5"
+ },
+ {
+  "id": "day19-quiz-2.1",
+  "type": "point_check",
+  "problem": "2x + y = 8",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day19-quiz-2.2",
+  "type": "point_check",
+  "problem": "x − y = 1",
+  "point": {
+   "x": "3",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day19-quiz-3.1",
+  "type": "system",
+  "problem": [
+   "−2x + y = 1",
+   "x + y = 4"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "3"
+  }
+ },
+ {
+  "id": "day19-quiz-4.1",
+  "type": "system",
+  "problem": [
+   "2x + y = 5",
+   "3x + 2y = 8"
+  ],
+  "answer": {
+   "x": "2",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day19-quiz-5.1",
+  "type": "system",
+  "problem": [
+   "x − 3y = 1",
+   "2x + 5y = 13"
+  ],
+  "answer": {
+   "x": "4",
+   "y": "1"
+  }
+ },
+ {
+  "id": "day19-quiz-6.1",
+  "type": "system",
+  "problem": [
+   "4x + 3y = 10",
+   "2x − 3y = −4"
+  ],
+  "answer": {
+   "x": "1",
+   "y": "2"
+  }
+ },
+ {
+  "id": "day19-quiz-7.1",
+  "type": "system",
+  "problem": [
+   "5x + 2y = 7",
+   "3x + 4y = −7"
+  ],
+  "answer": {
+   "x": "3",
+   "y": "-4"
+  }
+ },
+ {
+  "id": "day19-quiz-8.1",
+  "type": "system",
+  "problem": [
+   "3x + 2y = 4",
+   "2x + 5y = 21"
+  ],
+  "answer": {
+   "x": "-2",
+   "y": "5"
+  }
+ },
+ {
+  "id": "day19-quiz-9.1",
+  "type": "system",
+  "problem": [
+   "−4x + y = 3",
+   "8x − 2y = 4"
+  ],
+  "answer": "none"
+ },
+ {
+  "id": "day19-quiz-10.1",
+  "type": "system",
+  "problem": [
+   "x − 2y = 4",
+   "−3x + 6y = −12"
+  ],
+  "answer": "infinite"
+ },
+ {
+  "id": "day19-quiz-11.1",
+  "type": "system",
+  "problem": [
+   "x + y = 150",
+   "12x + 7y = 1425"
+  ],
+  "answer": {
+   "x": "75",
+   "y": "75"
+  }
+ },
+ {
+  "id": "day19-quiz-12.1",
+  "type": "system",
+  "problem": [
+   "−8x + y = 40",
+   "−5x + y = 64"
+  ],
+  "answer": {
+   "x": "8",
+   "y": "104"
+  }
+ },
+ {
+  "id": "day19-quiz-13.1",
+  "type": "point_check",
+  "problem": "y < (2/3)x − 1",
+  "point": {
+   "x": "0",
+   "y": "0"
+  },
+  "answer": false
+ },
+ {
+  "id": "day19-quiz-14.1",
+  "type": "point_check",
+  "problem": "y <= x + 2",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day19-quiz-14.2",
+  "type": "point_check",
+  "problem": "y > −2x − 1",
+  "point": {
+   "x": "1",
+   "y": "2"
+  },
+  "answer": true
+ },
+ {
+  "id": "day19-quiz-15.1",
+  "type": "point_check",
+  "problem": "y <= x + 2",
+  "point": {
+   "x": "-1",
+   "y": "3"
+  },
+  "answer": false
+ },
+ {
+  "id": "day19-quiz-15.2",
+  "type": "point_check",
+  "problem": "y > −2x − 1",
+  "point": {
+   "x": "-1",
+   "y": "3"
+  },
+  "answer": true
+ }
+]

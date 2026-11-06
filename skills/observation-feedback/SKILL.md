@@ -28,3 +28,7 @@ When asked, create a one-page walkthrough tool with 4-6 look-fors tied to the sc
 - Never include personal judgments about the teacher's character or comparisons with colleagues.
 - Don't include student names; describe students by seat or "a student".
 - Formal evaluation decisions belong to the evaluator; flag anything that could be a contractual/HR issue for the teacher's administrator instead of writing it into coaching feedback.
+
+## Evidence base
+
+Coaching research (Kraft, Blazar & Hogan); bite-sized action steps and practice (Bambrick-Santoyo); feedback (Hattie & Timperley). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

@@ -28,3 +28,13 @@ Any of: a table of students × items (1/0 or points), responses per item (A/B/C/
 - **Next time**: changes to instruction or to the test items.
 
 Show percent-correct results as a simple table or chart sorted weakest first.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Misconceptions:** read `<plugin-root>/references/misconceptions/<subject>.md` (algebra-1, fractions, middle-school-science, ela) when it matches the topic, and use it for misconception notes and distractors. For other subjects, draw on known research and say the notes are general.
+
+## Evidence base
+
+Formative use of assessment data (Black & Wiliam; Wiliam). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

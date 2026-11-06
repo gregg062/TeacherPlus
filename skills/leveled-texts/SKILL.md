@@ -28,3 +28,13 @@ The source text (or the topic, if writing an original passage), grade, and how m
 
 - Don't change facts or water down the ideas — lower the language load, not the thinking.
 - Label levels neutrally (e.g. "Version A / B / C" or colors) so students aren't labelled by reading level.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Standards:** look up codes and wording with `python3 <plugin-root>/tools/standards.py get <code>` or `search "<topic>" --set math|ela|ngss --grade <g>`. Quote the official text. Never cite a code the tool can't find. For state-specific standards, ask the teacher to paste them.
+
+## Evidence base
+
+Text complexity guidance (CCSS ELA Appendix A); UDL (CAST). Leveled texts are a bridge to grade-level text, not a replacement: also give students supported access to the grade-level version. Full citations and strength of evidence: `<plugin-root>/references/research.md`.

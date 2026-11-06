@@ -29,3 +29,13 @@ Translate each support into exactly what changes on the material or in the room,
 - *Multilingual learners* → visuals, bilingual glossary, sentence frames, partner in shared language, oral responses allowed.
 
 Remind the teacher that legally required accommodations come from the student's IEP/504 plan and the case manager is the authority on them.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Misconceptions:** read `<plugin-root>/references/misconceptions/<subject>.md` (algebra-1, fractions, middle-school-science, ela) when it matches the topic, and use it for misconception notes and distractors. For other subjects, draw on known research and say the notes are general.
+
+## Evidence base
+
+Universal Design for Learning (CAST); differentiated instruction (Tomlinson); worked examples and the expertise reversal effect (Kalyuga et al.). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

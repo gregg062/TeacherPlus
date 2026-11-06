@@ -43,7 +43,7 @@ Every skill in TeacherPlus is reviewed and tested by an experienced educator bef
 
 | Skill | Status | Test case | Reviewer | Date | Notes |
 |---|---|---|---|---|---|
-| `assessment-builder` | Draft | yes | | | |
+| `assessment-builder` | Draft | yes (+ `math-answer-key`) | | | |
 | `rubric-builder` | Draft | yes | | | |
 | `assessment-review` | Draft | yes | | | |
 | `item-analysis` | Draft | yes | | | |
@@ -71,7 +71,21 @@ Every skill in TeacherPlus is reviewed and tested by an experienced educator bef
 | Skill | Status | Test case | Reviewer | Date | Notes |
 |---|---|---|---|---|---|
 | `sub-plans` | Draft | yes | | | |
+| `long-term-sub-plans` | Draft | yes | | | |
 | `report-comments` | Draft | — | | | |
 | `at-risk-review` | Draft | — | | | |
 
 Skills marked — under *Test case* rely on the class-data connector; tests for them need connector mocks (planned).
+
+## Reference material
+
+| Item | Status | Reviewer | Date | Notes |
+|---|---|---|---|---|
+| `references/research.md` (evidence base and citations) | Draft | | | Check each summary against the source |
+| `references/misconceptions/algebra-1.md` | Draft | | | |
+| `references/misconceptions/fractions.md` | Draft | | | |
+| `references/misconceptions/middle-school-science.md` | Draft | | | |
+| `references/misconceptions/ela.md` | Draft | | | |
+| `examples/algebra1-long-term-sub/` (4-week example) | Draft | | | Review as a real sub plan: sequence, pacing, scripts |
+| `references/standards/` (bundled standards) | Spot-checked | | | Licensing to confirm before selling; NGSS incomplete |
+

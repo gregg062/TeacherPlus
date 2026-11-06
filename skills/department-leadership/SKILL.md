@@ -28,3 +28,7 @@ Write goals as SMART goals tied to student outcomes, with actions, owners, timel
 
 - Use anonymized student work and aggregate data in department meetings.
 - Keep a neutral, collegial tone; department heads lead peers, so emphasize shared ownership.
+
+## Evidence base
+
+Professional learning communities (DuFour et al.); School Reform Initiative protocols. Full citations and strength of evidence: `<plugin-root>/references/research.md`.

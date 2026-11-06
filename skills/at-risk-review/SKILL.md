@@ -33,3 +33,7 @@ Offer follow-ups: draft parent emails (`parent-communication` skill), a check-in
 - These flags are a screening aid built from simple, listed rules. Say "may need support" / "worth a check-in", never "at-risk kid" or labels. Note that the data can be incomplete (e.g. ungraded work, attendance entered late).
 - Don't speculate about causes (home life, disability, etc.).
 - Keep results with the teacher. Don't put them in documents for substitutes, students or other families.
+
+## Evidence base
+
+Early warning indicators: attendance, behavior and course performance (Balfanz et al.; Allensworth & Easton); chronic absence definition (Attendance Works). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

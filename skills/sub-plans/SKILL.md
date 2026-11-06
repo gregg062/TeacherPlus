@@ -5,6 +5,8 @@ description: Write a complete, ready-to-print substitute teacher plan. Use when 
 
 # Substitute plans
 
+For absences longer than a few days (leave, surgery, a planned week or more), use the `long-term-sub-plans` skill instead.
+
 Produce a plan a substitute who has never been in the building can follow without asking anyone.
 
 ## 1. Gather context
@@ -41,3 +43,7 @@ Use this structure, one page per section where possible:
 - Activities must work without the teacher's login, without labs/chemicals/sharp tools, and with a sub who doesn't know the subject.
 - Use first name + last initial only. Keep it to what the sub needs (FERPA minimum necessary).
 - Default output: a printable document (DOCX or PDF if the teacher's environment supports it, otherwise well-formatted Markdown). Offer a one-page "emergency sub plan" version that can stay in the sub folder all year.
+
+## Evidence base
+
+Consistent routines and explicit instruction (Rosenshine); classroom management (Simonsen et al.). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

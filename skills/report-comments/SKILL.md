@@ -21,3 +21,7 @@ Output a table (Student | Comment | Word count) that can be pasted into the SIS,
 ## Class progress report (for admin, department or PLC)
 
 Call `class_summary` and `flag_at_risk_students`. Report: class average and distribution, assignments that need reteaching (lowest scoring / most missing), number of students by tier (no names unless the teacher asks), and planned interventions. Keep it to one page.
+
+## Evidence base
+
+Feedback that says where the student is, where they're going, and the next step (Hattie & Timperley). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

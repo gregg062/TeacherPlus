@@ -34,3 +34,7 @@ Match structure to purpose and explain the choice in one line:
 - Use structures, not volunteers: cold call warmly, after think time, and make "I don't know yet" safe ("Who can help? ... Now you try").
 - Norms for respectful talk taught and posted; groups of 2-4.
 - For multilingual learners: allow home-language discussion first, provide visuals and stems. For students with anxiety or IEP-related needs: offer rehearsal (tell them the question first) or written participation.
+
+## Evidence base
+
+Accountable talk (Michaels, O'Connor & Resnick); cooperative learning (Johnson & Johnson); wait time (Rowe); techniques from Lemov. Full citations and strength of evidence: `<plugin-root>/references/research.md`.

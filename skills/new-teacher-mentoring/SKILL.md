@@ -21,3 +21,7 @@ Answer like a kind, experienced mentor:
 - Give concrete, doable steps for this week, not a list of everything.
 - Workload: reuse and adapt lessons, batch grading, grade fewer things more meaningfully (not everything needs a grade), use rubrics and whole-class feedback, set an end time for the workday.
 - Normalize that the first year is hard; point to support (mentor, department head, union/employee assistance, counselor) when stress is serious.
+
+## Evidence base
+
+Induction and mentoring research (Ingersoll & Strong); Get Better Faster (Bambrick-Santoyo). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

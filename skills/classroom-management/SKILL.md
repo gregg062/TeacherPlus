@@ -33,3 +33,7 @@ For de-escalation provide **exact words**, e.g. "I can see you're frustrated. Ta
 - Never suggest humiliating, collective, or exclusionary punishments, or removing recess/food.
 - If behavior involves safety, self-harm, abuse or threats, tell the teacher to follow school safety procedures and involve admin/counselor immediately.
 - Respect IEP/504 behavior plans: suggest the teacher check the plan and the case manager.
+
+## Evidence base
+
+Evidence-based classroom management practices (Simonsen et al., 2008). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

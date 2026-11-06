@@ -17,3 +17,7 @@ description: Guide a teacher's reflection after teaching a lesson and turn it in
 3. End with a short note to "future me" the teacher can keep with the lesson file.
 
 Keep the tone of a supportive coach: honest, specific, encouraging, never judgmental. A lesson that "flopped" is information, not failure.
+
+## Evidence base
+
+Reflective practice (Schön); formative assessment (Wiliam). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

@@ -24,3 +24,14 @@ Review like an experienced head of department doing a supportive pre-check: be s
 2. A table: **Item | Issue | Why it matters | Fixed version**. Prioritize: errors in the key and unfair items first, then alignment, then polish.
 3. A summary of alignment (objective → items) and estimated completion time.
 4. Offer the fully revised assessment.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Math accuracy:** for any math answer key, write each problem and its claimed answer as JSON and run `python3 <plugin-root>/tools/check_math.py keys.json` (usage is in the file's header). Fix every FAIL and re-run until all pass. If you can't run code, mark the key "not machine-checked, please verify".
+- **Standards:** look up codes and wording with `python3 <plugin-root>/tools/standards.py get <code>` or `search "<topic>" --set math|ela|ngss --grade <g>`. Quote the official text. Never cite a code the tool can't find. For state-specific standards, ask the teacher to paste them.
+
+## Evidence base
+
+Item-writing guidelines (Haladyna, Downing & Rodriguez); Depth of Knowledge (Webb). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

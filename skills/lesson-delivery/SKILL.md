@@ -50,3 +50,14 @@ One idea per slide: Do Now, learning target, hook, model example (build step by 
 - Times must add up exactly to the period length.
 - Teacher talk in any single stretch should rarely exceed 10 minutes; students should be doing something every few minutes.
 - Write in plain, natural teacher voice suitable for the grade level — no scripted-sounding jargon.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Math accuracy:** for any math answer key, write each problem and its claimed answer as JSON and run `python3 <plugin-root>/tools/check_math.py keys.json` (usage is in the file's header). Fix every FAIL and re-run until all pass. If you can't run code, mark the key "not machine-checked, please verify".
+- **Misconceptions:** read `<plugin-root>/references/misconceptions/<subject>.md` (algebra-1, fractions, middle-school-science, ela) when it matches the topic, and use it for misconception notes and distractors. For other subjects, draw on known research and say the notes are general.
+
+## Evidence base
+
+Rosenshine's principles of instruction; gradual release (Pearson & Gallagher; Fisher & Frey); worked examples (Sweller); wait time (Rowe); all-student response (Wiliam). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

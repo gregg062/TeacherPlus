@@ -9,7 +9,7 @@ It has two parts:
 
 ## What it can do
 
-TeacherPlus covers the whole teaching cycle: plan → differentiate → deliver → assess → reflect, plus coaching, department leadership and the writing teachers do every week. Three skills (`sub-plans`, `report-comments`, `at-risk-review`) are built around the class-data connector, and `parent-communication` and `lesson-planning` can optionally use it. Everything else works with no connector and no student records.
+TeacherPlus covers the whole teaching cycle: plan → differentiate → deliver → assess → reflect, plus coaching, department leadership and the writing teachers do every week. `report-comments` and `at-risk-review` are built around the class-data connector; `sub-plans`, `long-term-sub-plans`, `parent-communication` and `lesson-planning` can use it when it's available. Everything else works with no connector and no student records.
 
 | Area | Skills |
 |---|---|
@@ -19,7 +19,8 @@ TeacherPlus covers the whole teaching cycle: plan → differentiate → deliver 
 | Assess | `assessment-builder`, `rubric-builder`, `assessment-review`, `item-analysis` |
 | Coach & lead | `lesson-review`, `observation-feedback`, `coaching-cycle`, `department-leadership`, `new-teacher-mentoring` |
 | Communicate & grow | `class-communications`, `parent-communication`, `professional-growth` |
-| Uses class data (connector) | `sub-plans`, `report-comments`, `at-risk-review` |
+| Substitutes | `sub-plans` (a day or two), `long-term-sub-plans` (a week or more) |
+| Uses class data (connector) | `report-comments`, `at-risk-review` |
 
 Teachers just ask in plain language, for example:
 
@@ -36,6 +37,15 @@ Skills can also be run directly, e.g. `/teacherplus:lesson-delivery`.
 ## Educator-reviewed
 
 Every skill is reviewed, edited and tested by an experienced educator (25 years in the classroom, master's in curriculum, instructional coach and head of department) before it is marked approved. Review status for each skill is tracked in [REVIEW.md](REVIEW.md), and skills have test cases in `evals/` graded against her criteria.
+
+## How TeacherPlus avoids wrong answers
+
+- **Research-based methods.** Skills follow well-evidenced teaching practice (explicit instruction, worked examples, retrieval practice, formative assessment, backward design and more). Every skill names its sources; full citations and the strength of the evidence are in [references/research.md](references/research.md).
+- **Verified math.** Math answer keys are checked by `tools/check_math.py`, which recomputes every answer with exact arithmetic (equations, systems, inequalities, fractions, slopes). Claude fixes anything that fails before showing the key.
+- **Real standards text.** Common Core math and ELA and NGSS are bundled in `references/standards/`, and `tools/standards.py` looks codes up so they are quoted, not remembered. Unknown codes are refused.
+- **Subject knowledge.** `references/misconceptions/` lists the errors students commonly make in Algebra 1, fractions, middle school science and ELA, with teaching responses.
+- **Worked examples.** `examples/algebra1-long-term-sub/` is a complete 4-week Algebra 1 long-term sub package (19 lessons, 298 computer-checked answers) that skills use as their quality benchmark.
+- **Educator review and tests.** See below.
 
 ## At-risk screening: how students get flagged
 
@@ -107,6 +117,7 @@ Check your district's policy on using AI tools with student data before connecti
 ```
 uv run --with pytest pytest -q tests      # unit tests for the screening logic
 claude plugin eval .                      # run the skill test cases (evals/)
+python3 examples/algebra1-long-term-sub/build.py   # rebuild + re-verify the example
 python3 server/teacherplus_server.py      # run the MCP server over stdio
 ```
 
@@ -118,11 +129,14 @@ Layout:
 .mcp.json                         registers the connector
 server/risk.py                    data loading + screening (standard library only)
 server/teacherplus_server.py      MCP tools
-skills/*/SKILL.md                 task instructions (27 skills)
+skills/*/SKILL.md                 task instructions (28 skills)
 evals/                            test cases + grading criteria per skill
 REVIEW.md                         educator review tracker
 sample-data/                      fictional class for demos
 tests/                            pytest suite
+tools/                            check_math.py (answer checker), standards.py (standards lookup)
+references/                       research.md, standards/, misconceptions/
+examples/                         complete worked examples (4-week Algebra 1 sub package)
 ```
 
 ## Ideas for next versions

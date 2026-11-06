@@ -27,3 +27,13 @@ The teacher may be mid-lesson. **Answer first, in under 150 words, with somethin
 ## Reteach plan for tomorrow
 
 When asked after the lesson, use exit ticket results (counts, not names, are enough) to plan: a Do Now targeting the gap, a different explanation/representation, guided practice, and a check, while students who mastered it work on an extension.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Misconceptions:** read `<plugin-root>/references/misconceptions/<subject>.md` (algebra-1, fractions, middle-school-science, ela) when it matches the topic, and use it for misconception notes and distractors. For other subjects, draw on known research and say the notes are general.
+
+## Evidence base
+
+Formative assessment, using evidence to adjust teaching (Black & Wiliam); worked examples and fading (Sweller; Renkl & Atkinson). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

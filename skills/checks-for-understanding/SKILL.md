@@ -25,3 +25,14 @@ Only produce the types asked for; if not specified, give a hinge question and an
 - Prefer questions that reveal *thinking* ("Which step is wrong?", "Explain why...") over pure recall when the objective is conceptual.
 - Include decision rules: e.g. "If 80%+ are correct, move on; if not, reteach using..."
 - Accessible formats: can be read aloud, works on paper and screen.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Math accuracy:** for any math answer key, write each problem and its claimed answer as JSON and run `python3 <plugin-root>/tools/check_math.py keys.json` (usage is in the file's header). Fix every FAIL and re-run until all pass. If you can't run code, mark the key "not machine-checked, please verify".
+- **Misconceptions:** read `<plugin-root>/references/misconceptions/<subject>.md` (algebra-1, fractions, middle-school-science, ela) when it matches the topic, and use it for misconception notes and distractors. For other subjects, draw on known research and say the notes are general.
+
+## Evidence base
+
+Formative assessment and hinge questions (Black & Wiliam; Wiliam); retrieval and spaced practice (Roediger & Karpicke; Dunlosky et al.); item-writing guidelines (Haladyna et al.). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

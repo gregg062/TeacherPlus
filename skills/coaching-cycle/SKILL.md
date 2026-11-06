@@ -32,3 +32,7 @@ One page: goal, baseline vs. final evidence, what the teacher did, what changed 
 
 - Coaching is non-evaluative unless the school says otherwise; keep coaching notes separate from evaluations.
 - Keep the focus on one goal per cycle.
+
+## Evidence base
+
+Coaching meta-analysis (Kraft, Blazar & Hogan); the Impact Cycle (Knight). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

@@ -23,3 +23,13 @@ Offer to expand any unit with `unit-planner`.
 
 - Be realistic: a map that doesn't fit the calendar is useless. Show the arithmetic for days.
 - Mark any standard codes you're not certain of with "verify".
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Standards:** look up codes and wording with `python3 <plugin-root>/tools/standards.py get <code>` or `search "<topic>" --set math|ela|ngss --grade <g>`. Quote the official text. Never cite a code the tool can't find. For state-specific standards, ask the teacher to paste them.
+
+## Evidence base
+
+Backward design (Wiggins & McTighe); distributed practice and spiral review (Cepeda et al.; Pashler et al.). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

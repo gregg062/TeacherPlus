@@ -38,3 +38,15 @@ A short table: **Objective/standard | # items | Question types | Cognitive level
 - Reading level at or below grade unless reading is what's assessed.
 - Avoid culturally narrow contexts or names/stereotypes; use inclusive, varied contexts.
 - Run the `assessment-review` checklist before presenting.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Math accuracy:** for any math answer key, write each problem and its claimed answer as JSON and run `python3 <plugin-root>/tools/check_math.py keys.json` (usage is in the file's header). Fix every FAIL and re-run until all pass. If you can't run code, mark the key "not machine-checked, please verify".
+- **Standards:** look up codes and wording with `python3 <plugin-root>/tools/standards.py get <code>` or `search "<topic>" --set math|ela|ngss --grade <g>`. Quote the official text. Never cite a code the tool can't find. For state-specific standards, ask the teacher to paste them.
+- **Misconceptions:** read `<plugin-root>/references/misconceptions/<subject>.md` (algebra-1, fractions, middle-school-science, ela) when it matches the topic, and use it for misconception notes and distractors. For other subjects, draw on known research and say the notes are general.
+
+## Evidence base
+
+Item-writing guidelines (Haladyna, Downing & Rodriguez); Depth of Knowledge (Webb; Hess); alignment of objectives and assessment (Wiggins & McTighe). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

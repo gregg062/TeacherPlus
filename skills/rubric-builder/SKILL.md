@@ -29,3 +29,7 @@ Columns: **Areas for growth | Criteria (proficient description) | Evidence of ex
 
 - Each criterion must be assessable from the student's work alone.
 - Avoid language that describes the student ("lazy", "careless") — describe the work.
+
+## Evidence base
+
+Rubric design (Brookhart); feedback (Hattie & Timperley). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

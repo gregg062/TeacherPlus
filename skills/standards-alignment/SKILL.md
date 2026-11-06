@@ -24,3 +24,13 @@ When given a standard, break it into:
 
 - If the teacher's state or framework is unknown, ask or note your assumption (e.g. Common Core, NGSS, a state's own standards). Quote standard codes only when confident and tell the teacher to verify them.
 - Higher DOK means more complex thinking, not more work or harder vocabulary.
+
+## Accuracy tools
+
+`<plugin-root>` is the folder two levels above this skill's base directory (the one containing `tools/` and `references/`).
+
+- **Standards:** look up codes and wording with `python3 <plugin-root>/tools/standards.py get <code>` or `search "<topic>" --set math|ela|ngss --grade <g>`. Quote the official text. Never cite a code the tool can't find. For state-specific standards, ask the teacher to paste them.
+
+## Evidence base
+
+Depth of Knowledge (Webb; Hess et al.); revised Bloom's taxonomy (Anderson & Krathwohl). Full citations and strength of evidence: `<plugin-root>/references/research.md`.

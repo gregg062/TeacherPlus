@@ -16,6 +16,8 @@ Produce a plan a substitute who has never been in the building can follow withou
    - where materials are.
    If the teacher says "emergency" or "just make something", don't ask: build generic review activities from the class names and note where the teacher should fill in details.
 
+If the connector isn't available, ask the teacher for their schedule and routines, and leave clearly marked blanks (e.g. [student notes]) for anything else — never invent student details.
+
 ## 2. Write the plan
 
 Use this structure, one page per section where possible:

@@ -16,3 +16,11 @@ description: Create lesson plans, unit outlines, differentiated activities, exit
    - Accommodations that apply from the roster, as actions.
 4. For quizzes and worksheets, include an answer key and point values. For rubrics, use a table with 3–4 levels and observable descriptors.
 5. For a reteach plan, start from the assignment with the lowest average or most missing work in `class_summary` and target the likely misconception.
+
+## Related skills
+
+- Multi-week planning → `unit-planner`; standards and rigor → `standards-alignment`.
+- Turning the plan into a minute-by-minute run of show, script and slides → `lesson-delivery`.
+- Exit tickets and hinge questions → `checks-for-understanding`; tiered tasks and scaffolds → `differentiation`.
+
+The TeacherPlus connector is optional here: if it isn't available, plan from what the teacher tells you.
